@@ -1,0 +1,10 @@
+<configuration>
+    <property>
+        <name>raft.timeout.max</name>
+        <value>30000</value>
+    </property>
+    <property>
+        <name>raft.servers</name>
+        <value>127.0.0.1</value>
+    </property>
+</configuration>
